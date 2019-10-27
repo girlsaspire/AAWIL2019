@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>AAWIL 2019 Speaker & Lecturers' Detail</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/AAWIL_Logo_favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/venobox/venobox.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+  
+</head>
+
+<body>
+
+  <!--==========================
+    Header
+  ============================-->
+  <header id="header" class="header-fixed">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
+        <a href="index.html#intro" class="scrollto"><img src="img/AAWIL_Logo.png" alt="" title=""></a>
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li><a href="index.html#intro">Home</a></li>
+          <li><a href="index.html#about">About</a></li>
+          <li><a href="index.html#speakers">Speaker & Lecturers</a></li>
+          <li><a href="index.html#schedule">Schedule</a></li>
+          <li><a href="index.html#gallery">Gallery</a></li>
+          <li><a href="index.html#supporters">Sponsors</a></li>
+          
+          <li class="buy-tickets"><a href="https://www.eventbrite.com/e/asian-american-women-in-leadership-aawil-conference-2019-rise-up-tickets-38372763970">Get Tickets</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+  <main id="main" class="main-page">
+
+    <!--==========================
+      Speaker Details Section
+    ============================-->
+    <section id="speakers-details" class="wow fadeIn">
+      <div class="container">
+        <div class="section-header">
+          <h2>Speaker, host & Lecturers Details</h2>
+          <p>The bio of the speaker, host and lecturers today</p>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6">
+            <img src="img/speakers/ManishaBewtraAICP.jpg" alt="ManishaBewtra" class="img-fluid">
+          </div>
+
+          <div class="col-md-6">
+            <div class="details">
+              <h2>Manisha Bewtra AICP</h2>
+              <div class="social">
+                <a href="https://twitter.com/manishabewtra"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/in/manishagadiabewtra/"><i class="fa fa-linkedin"></i></a>
+              </div>
+              
+              <p>
+                    Manisha Bewtra, AICP is a city planner, equity advocate, and local official. She is a knowledgeable and experienced leader who brings different perspectives together, facilitates conversations around change, and generates data-informed solutions that move communities forward. She is a City Councilor-At-Large in Melrose, Massachusetts where in the November 2017 she was the first person of color ever elected to serve the City of Melrose. In 2019, she ran for Mayor of Melrose. During her tenure as a City Councilor, she’s applied her expertise in city planning to the variety of issues that come before the Council, such as recreational marijuana zoning, affordable housing, sewer and water infrastructure, dockless bike sharing, snow removal, investing in the city’s school, library, and public safety buildings, climate change and energy efficiency, and the city budget.</p>
+                    <p>She’s a champion of Melrose’s “One Community Open to All” motto and prior to her service as a City Councilor she was the Vice Chair of the Melrose Human Rights Commission. In September 2018 she brought forward a resolution asking her colleagues to endorse Yes on 3 to reaffirm local and state non-discrimination laws prohibiting discrimination in places of public accommodation on the basis of gender identity and gender expression. Councilor Bewtra made the resolution available online and many other cities and towns referenced Melrose’s resolution when adopting their own. She served as the master of ceremonies at the city’s first-ever Diwali celebration in 2018 and helped to establish an annual Community Iftar Dinner during Ramadan starting in 2016. She takes care to connect national and global issues to home, showing how Melrose residents are deeply impacted by racism, bigotry, anti-immigrant rhetoric, and erasure of indigenous cultures, and champions efforts to tackle those issues locally and vocally.</p>
+                    <p>Outside her work on the City Council and her campaign for Mayor, Councilor Bewtra has worked with dozens of cities and towns across Massachusetts as a planner at the Massachusetts Housing Partnership and at the Metropolitan Area Planning Council. She has served as a Design Critic and studio instructor at the Harvard School of Design. Prior to moving to Massachusetts, she worked in Philadelphia, Washington, D.C., Baltimore, and the Phoenix metro area. She has a BA from The University of Iowa in Economics and Art, a Master of City Planning degree from the University of Pennsylvania, and is a member of the American Institute of Certified Planners. She is also a graduate of Emerge Massachusetts, the Initiative for Diversity in Civic Leadership, and the Massachusetts Commonwealth Seminar, three organizations dedicated to training underrepresented groups to influence public policy and to run for office. Councilor Bewtra grew up in Iowa, identifies as an Indian-American woman, cis/het, mom, xennial, and #plannerd.</p>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <img src="img/AAWIL_Logo.png" alt="AAWIL2019">
+            <p>The AAWIL Conference, organized by ASPIRE, is an interactive, one-day event aimed at growing and developing leadership skills. The program includes a keynote address, shared discussions, small group activities, networking opportunities, workshops, and training sessions.</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>More About ASPIRE</h4>
+            <ul>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/">Home</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/about-us">About us</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/womens-leadership-programs">Our Programs</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/get-involved">Get Involved</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/donate">Donate</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+                ASPIRE<br>
+                P.O. BOX 51037<br>
+                BOSTON, MA 02205<br>
+              <strong>Email:</strong>INFO@GIRLSASPIRE.ORG<br>
+            </p>
+
+            <div class="social-links">
+                    <a href="https://twitter.com/girlsaspire" class="twitter"><i class="fa fa-twitter"></i></a>
+                    <a href="https://www.facebook.com/girlsaspire" class="facebook"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.instagram.com/girlsaspire/" class="instagram"><i class="fa fa-instagram"></i></a>
+                    <a href="https://www.linkedin.com/company/aspire-asian-sisters-participating-in-reaching-excellence" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                  </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>GirlsAspire.org</strong>. All Rights Reserved
+      </div>
+      
+    </div>
+  </footer><!-- #footer -->
+
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/venobox/venobox.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+</body>
+
+</html>
