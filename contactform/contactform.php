@@ -1,9 +1,5 @@
 <?php
-/*
-  PHP contact form script
-  Version: 1.1
-  Copyrights BootstrapMade.com
-*/
+
 
 /***************** Configuration *****************/
 
