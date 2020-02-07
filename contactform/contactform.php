@@ -4,7 +4,7 @@
 /***************** Configuration *****************/
 
   // Replace with your real receiving email address
-  $contact_email_to = "INFO@GIRLSASPIRE.ORG";
+  $contact_email_to = "a351025@gmail.com";
 
   // Title prefixes
   $subject_title = "Contat Form Message:";
