@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>AAWIL 2019</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link href="img/AAWIL_Logo_favicon.png" rel="icon">
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/venobox/venobox.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style.css" rel="stylesheet">
+
+ 
+</head>
+<body>
+
+  <!--==========================
+    Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <a href="#intro" class="scrollto"><img src="img/AAWIL_Logo.png" alt="" title=""></a>
+        <!--<h1><a href="#main">A<span>A</span>WIL 2019</a></h1> -->
+        
+      </div>
+
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="#intro">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#speakers">Speakers</a></li>
+          <li><a href="#schedule">Agenda</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#supporters">Sponsors</a></li>
+          
+          <li class="buy-tickets"><a href="https://www.eventbrite.com/e/asian-american-women-in-leadership-aawil-conference-2019-rise-up-tickets-38372763970">Get Tickets</a></li>
+        </ul>
+      </nav><!-- #nav-menu-container -->
+    </div>
+  </header><!-- #header -->
+
+  <!--==========================
+    Intro Section
+  ============================-->
+  <section id="intro">
+    <div class="intro-container wow fadeIn">
+      <h1 class="mb-4 pb-0"><br>THANK YOU<br><span>for making this event a success!<span><br></h1>
+      <p class="mb-4 pb-0">We hope you found this conference as fulfilling as we did!<br><i>Tag @girlsaspire or send your photos to <a href="mailto:conference@copyright.com">conference@copyright.com</a> and don't forget to fill out our <a href="https://forms.gle/2rPw1tRv99DorQ2k8">survey</a>.</i><br>See you in 2020!
+       </p>
+       <!--<a href="https://www.youtube.com/watch?v=368HUg6hyhE" class="venobox play-btn mb-4" data-vbtype="video"
+        data-autoplay="true"></a>-->
+      <a href="#about" class="about-btn scrollto">About The Conference</a>
+    </div>
+  </section>
+
+  <main id="main">
+
+    <!--==========================
+      About Section
+    ============================-->
+    <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <h2>About AAWIL Conference</h2>
+            <p>The AAWIL Conference is an interactive, one-day event aimed at growing and developing leadership skills. The program includes a keynote address, small group activities, networking opportunities, workshops, and training sessions. Conference participants include high school, college, and graduate school students and young, mid-career, and seasoned professionals from the Greater Boston area and around the country. It was started by <a href="https://www.girlsaspire.org/conference">ASPIRE</a> in 2004.</p>
+          </div>
+          <div class="col-lg-3">
+            <h3>Where</h3>
+            <p>Linda K. Paresky Conference Center, Simmons University, Boston, MA</p>
+          </div>
+          <div class="col-lg-3">
+            <h3>When</h3>
+            <p>Saturday, 8:30 AM to 5 PM<br>November 16th, 2019</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!--==========================
+      Speakers Section
+    ============================-->
+    <section id="speakers" class="wow fadeInUp">
+        <div class="section-header">
+            <h2>Speakers</h2>
+            <p>Our keynote and speakers during the breakout sessions</p>
+          </div>
+     <div class="container">
+          <div class="row">
+              <div class="col-lg-8">
+                <h2>Keynote: Diana Hwang</h2>
+                <p>Diana Hwang is the Founder and Executive Director of the Asian-American Women’s Political Initiative (AAWPI), the country’s only political leadership organization for Asian-American women. Through coalition-building, advocacy and first-of-its-kind programming, AAWPI works to ensure that Asian-American women have a voice in their government, and trains and mentors the next-generation of low-income and immigrant women leaders.</p>
+                  <p>Diana began her career in politics at the State House as the Executive Director of the Caucus of Women Legislators and as the Legislative Aide to late State Representative Debby Blumer (D-Framingham). She then served as Chief of Staff at the Boston City Council.</p>
+               </div>
+              <div class="col-lg-4">
+                  <div class="speaker">
+                      <img src="DianaHwang.jpg" alt="DianaHwang" class="img-fluid">
+                      <div class="details">
+                        <h3><a href="Keynote-DianaHwang.html">Diana Hwang</a></h3>
+                        <p>Founder and Executive Director of AAWPI</p>
+                        <div class="social">
+                          <a href="https://twitter.com/DianaHwang"><i class="fa fa-twitter"></i></a>
+                          <a href="https://www.facebook.com/AAWPI"><i class="fa fa-facebook"></i></a>
+                          <a href="https://www.bostonglobe.com/metro/2016/01/11/new-candidate-run-for-east-boston-senate-seat/5INwA3jURMujiuhctUD68K/story.html"><i class="fa fa-google-plus"></i></a>
+                        </div>
+                      </div>
+                </div>
+                </div>
+                </div>
+
+
+      <section id="speakers" class="wow fadeInUp"></section>
+        <div class="section-header">
+          <h2>Breakout Sessions</h2>
+          <p>Speaking for AAWIL Rise Up!</p>
+        </div>
+       
+       <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/TrishFontanilla.jpg" alt="TrishFontanilla" class="img-fluid">
+              <div class="details">
+                <h3><a href="MC-Trish.html">Trish Fontanilla</a></h3>
+                <p>Emcee </p>
+                <div class="social">
+                    <a href="https://twitter.com/trishofthetrade"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.facebook.com/trishofthetrade"><i class="fa fa-facebook"></i></a>
+                <a href="https://www.linkedin.com/in/trishf"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+      
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/ElenaMLau.png" alt="ElenaMLau" class="img-fluid">
+              <div class="details">
+                <h3><a href="Speaker-Elena.html">Elena M. Lau</a></h3>
+                <p>The Asian-American Experience (Panel) </p>
+                <div class="social">
+                    <a href="https://twitter.com/elenamlau"><i class="fa fa-twitter"></i></a>
+                  <a href="https://www.facebook.com/elenamlaurealtor/"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.linkedin.com/in/elenamlau/"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+                    <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/Hahm.png" alt="Hahm" class="img-fluid">
+              <div class="details">
+                <h3><a href="Lecturer-Hahm.html">Hyeouk (Chris) Hahm, Ph.D., LCSW</a></h3>
+                <p>The Asian-American Experience (Panel)</p>
+                <div class="social">
+                  <a href="http://www.facebook.com/awship"><i class="fa fa-facebook"></i></a> 
+                  <a href="https://www.linkedin.com/in/chris-hyeouk-hahm-ph-d-lcsw-4175a921"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+                      <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/MonicaValdesLupi.jpg" alt="MonicaValdesLupi" class="img-fluid">
+              <div class="details">
+                <h3><a href="Speaker-MonicaValdesLupiJDMPH.html">Monica Valdes Lupi, JD, MPH</a></h3>
+                <p>The Asian-American Experience (Panel)</p>
+                <div class="social">
+                   <a href="https://www.linkedin.com/in/monica-valdes-lupi-jd-mph-5350a88"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+                    <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/ReginaAu.png" alt="ReginaAu" class="img-fluid">
+              <div class="details">
+                <h3><a href="Speaker-Regina.html">Regina Au</a></h3>
+                <p>Develop Your Leadership Skills While Maintaining Your Authenticity</p>
+                <div class="social">
+                <a href="https://www.linkedin.com/in/regina-au-972248"><i class="fa fa-linkedin"></i></a>
+                <a href="https://speaker.innovationwomen.com/user/604"><i class="fa fa-google-plus"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+                    <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/ManishaBewtra.jpg" alt="ManishaBewtra" class="img-fluid">
+              <div class="details">
+                <h3><a href="Speaker-Manisha.html">Manisha Bewtra, AICP</a></h3>
+                <p>Diversity in Careers (Panel)</p>
+                <div class="social">
+                <a href="https://twitter.com/manishabewtra"><i class="fa fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/in/manishagadiabewtra/"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/CourtneyPong.png" alt="CourtneyPong" class="img-fluid">
+              <div class="details">
+                <h3><a href="Lecturer-Courtney.html">Courtney Pong</a></h3>
+                <p>The Top 5 Habits & Skills of Improvisers</p>
+                <div class="social">
+                  <a href="https://twitter.com/CourtneyPong"><i class="fa fa-twitter"></i></a>
+                  <a href="https://www.facebook.com/courtney.pong"><i class="fa fa-facebook"></i></a>
+                  <a href="https://www.linkedin.com/in/courtneypong"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/MichelleDeOcampo.png" alt="MichelleDeOcampo" class="img-fluid">
+              <div class="details">
+                <h3><a href="Speaker-Michelle.html">Michelle Garcia DeOcampo</a></h3>
+                <p>Empowerment Through Wellness: A Safe Space Workshop</p>
+                <div class="social">
+                 <!--
+                  <a href="https://www.facebook.com/nalee"><i class="fa fa-facebook"></i></a>
+                  <a href=""><i class="fa fa-google-plus"></i></a>
+                  <a href=""><i class="fa fa-linkedin"></i></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/DianaYuan.png" alt="DianaYuan" class="img-fluid">
+              <div class="details">
+                <h3><a href="Speaker-DianaYuan.html">Diana Yuan</a></h3>
+                <p>Land your Dream Job: Navigating and Nailing the Interview Process</p>
+                <div class="social">
+                  <a href="https://www.facebook.com/diana.yuan.1"><i class="fa fa-facebook"></i></a>
+                  <a href="https://twitter.com/dianayuan32"><i class="fa fa-twitter"></i></a>
+                  <a href="https://www.linkedin.com/in/dianayuan"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+   <!--       <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/BoraChiemruom.jpg" alt="BoraChiemruom" class="img-fluid">
+              <div class="details">
+                <h3><a href="Speaker-BoraChiemruom.html">Bora Chiemruom</a></h3>
+                <p>How Far We've Climbed (Panel)</p>
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/bora-chiemruom-44505215"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>   -->
+          <div class="col-lg-4 col-md-6">
+              <div class="speaker">
+                <img src="img/speakers/NancyALee.jpg" alt="NancyALee" class="img-fluid">
+                <div class="details">
+                  <h3><a href="Speaker-Nancy.html">Nancy A. Lee</a></h3>
+                  <p>Diversity in Careers (Panel)</p>
+                  <div class="social">
+                    <a href="https://www.facebook.com/nalee"><i class="fa fa-facebook"></i></a>
+                    <a href="https://www.linkedin.com/in/nancy-a-lee-96158011"><i class="fa fa-linkedin"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+       <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/ElizabethYang.jpg" alt="ElizabethYang" class="img-fluid">
+              <div class="details">
+                <h3><a href="Speaker-Elizabeth.html">Elizabeth Yang</a></h3>
+                <p>Becoming A Powerful Networker</p>
+                <div class="social">
+                  <a href="https://www.linkedin.com/in/elizabethyang"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+            <div class="col-lg-4 col-md-6">
+                <div class="speaker">
+                  <img src="img/speakers/JudyShenFilerman.jpg" alt="JudyShen-Filerman" class="img-fluid">
+                  <div class="details">
+                    <h3><a href="Lecturer-Judy.html">Judy Shen-Filerman</a></h3>
+                    <p>You’re Enough: Don’t Wait to be Perfect Before You Live Your Best Self</p>
+                    <div class="social">
+                      <a href="https://www.linkedin.com/in/judyshenfilerman/"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+        <div class="col-lg-4 col-md-6">
+            <div class="speaker">
+              <img src="img/speakers/IyleenSummer.jpg" alt="IyleenSummer" class="img-fluid">
+              <div class="details">
+                <h3><a href="Moderator-Iyleen.html">Iyleen Summer</a></h3>
+                <p>Moderator</p>
+                <div class="social">
+                  <a href="ttps://www.linkedin.com/in/iyleensummer"><i class="fa fa-linkedin"></i></a>
+                </div>
+              </div>
+            </div> 
+         </div>
+          <div class="col-lg-4 col-md-6">
+                <div class="speaker">
+                  <img src="img/speakers/LizaTalusan.jpg" alt="LizaTalusan" class="img-fluid">
+                  <div class="details">
+                    <h3><a href="Speaker-Liza.html">Liza Talusan</a></h3>
+                    <p>How Far We've Climbed (Panel)</p>
+                    <div class="social">
+                      <a href="https://twitter.com/ltalusan"><i class="fa fa-twitter"></i></a>
+                      <a href="https://www.linkedin.com/in/lizatalusan"><i class="fa fa-linkedin"></i></a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+
+  
+        </div>
+      </div>
+
+    </section>
+
+    <!--==========================
+      Schedule Section
+    ============================-->
+    <section id="schedule" class="section-with-bg">
+      <div class="container wow fadeInUp">
+        <div class="section-header">
+          <h2>Conference Agenda</h2>
+          <p>Our schedule for November 16th, 2019</p>
+        </div>
+
+        <ul class="nav nav-tabs" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" href="#morning" role="tab" data-toggle="tab">Morning</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#afternoon" role="tab" data-toggle="tab">Afternoon</a>
+          </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link" href="#day-3" role="tab" data-toggle="tab">Day 3</a>
+          </li> -->
+        </ul>
+
+        <h3 class="sub-heading">Please notice that all sessions, topics, speakers, times and activities are subject to change.</h3>
+
+        <div class="tab-content row justify-content-center">
+
+          <!-- Schdule Morning-->
+          <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="morning">
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>08:30 AM -09:30 AM</time></div>
+              <div class="col-md-10">
+                <h4>Registration & Breakfast</h4>
+                <p>Check in, grab food, and meet other conference attendees!</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>09:30 AM -10:15 AM</time></div>
+
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="DianaHwang.jpg" alt="keynotespeaker">
+                </div>
+                <h4>Keynote speech<span></span></h4>
+                <p>Diana Hwang is the Founder and Executive Director of the Asian-American Women’s Political Initiative (AAWPI), the only political leadership organization for Asian-American women in Massachusetts and the country. AAWPI recently celebrated its 10th year with "Women On Fire", featuring powerful community leaders from the east and west coasts.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>10:15 AM -10:30 AM</time></div>
+              <div class="col-md-10">
+                <h4>Break</h4>
+                
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>10:30 AM -12:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/ElenaMLau.png" alt="ElenaMLau">
+                </div>
+                <h4>
+                  The Asian-American Experience (Panel) 
+                   <span>Elena M. Lau, Hyeouk "Chris" Hahm, Monica Valdes Lupi
+                    </span></h4>
+                <p>Facing cultural clashes is a hallmark of growing up as an Asian-American: language barriers and different social values may create rifts in families; stories from others experiencing these struggles are not typically heard. This panel will shine a light on these challenges and how they were overcome by these successful women who are in real estate, mental health, and public policy professions today.</p>
+              </div>           
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/ManishaBewtraAICP.jpg" alt="Manisha Bewtra">
+                </div>
+                <h4>Diversity in Careers (Panel) <span>Courtney Pong, Manisha Bewtra, Nancy A. Lee</span></h4>
+                <p>Have you ever felt restricted by societal expectations? Were you ever interested in something nontraditional but didn’t find enough support to help you take that leap? Listen to these stories from an allstar panel of women in comedy, law, and city planning. Hear about not only the work they do, but also how community involvement is integral to what inspires them when navigating their careers and personal lives.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/ReginaAu.png" alt="Regina Au">
+                </div>
+                <h4>Develop Your Leadership Skills While Maintaining Your Authenticity 
+                <span>Regina Au</span></h4>
+                <p>Learn why it is important to identify your strengths and weakness—and how to acknowledge unconscious biases that may influence how you interact at work and affect the decisions you make, both in your career and in your personal life. In addition to building an understanding, you will also learn ten important leadership traits and how to find mentors, advisors, sponsors and other resources.</p>
+              </div>
+            </div>
+
+          </div>
+          <!-- End Schdule Morning -->
+
+          <!-- Schedule Afternoon -->
+          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="afternoon">
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>12:15 PM -02:00 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                 <img src="" alt="">
+                </div>
+                <h4>Speed Networking Lunch</h4>
+                <p>Networking for students and young, mid-career, and seasoned professionals</p>
+              </div>
+            </div>
+            
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>02:15 PM - 03:45 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/CourtneyPong.png" alt="Courtney Pong">
+                </div>
+                <h4>
+                  The Top 5 Habits & Skills of Improvisers: How to Make Them Your Best Advantage When Navigating the Unknown
+                   <span>Courtney Pong</span></h4>
+                <p>The best professional improv comedians don’t “wing it.” They practice a highly-refined system of observing, connecting and responding. It’s how they swiftly and seamlessly work with their team while engaging audiences immediately, with only seconds to prepare. This system can be your best advantage. Elevate how you impact a room, from speeches to storytelling, and all of the unexpected in-between.</p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/JudyShenFilerman.jpg" alt="speaker name">
+                </div>
+                <h4>You’re Enough: Don’t Wait to be Perfect Before You Live Your Best Self <span>Judy Shen-Filerman</span></h4>
+                <p>How often do you wonder if you’re qualified for that project, that new job or even a promotion? Most of us ask these questions. But research shows that Asian women possess a unique level of self-doubt that prevents us from recognizing and living our Best Self. In this Best Self Leadership workshop, you’ll discover how to identify culturally sensitive challenges and learn from them to unleash your Dream.</p>
+              </div>
+            </div>
+
+
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/MichelleDeOcampo.png" alt="Michelle DeOcampo">
+                </div>
+                <h4>Empowerment Through Wellness: A Safe Space Workshop <span>Michelle Garcia DeOcampo</span></h4>
+                <p>It's hard to open up, be honest about the hardships we face, and ask for help—especially for Asian American girls & women. The model minority stereotype makes us feel the need to hide our problems to “save face” even with family & friends, and our cultures & communities often normalize silence as a response to emotional stress. But we often experience similar struggles, related to personal identity, self-esteem, body image, relationships, sexuality, school/family pressure, violence/abuse, etc.. We don’t have to be silent or feel alone. This workshop will provide a safe space for participants to reflect on their personal journeys, and learn wellness tips & resources to manage stress, build self-esteem, and feel empowered.</p>
+              </div>
+            </div>
+            
+            <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/DianaYuan.png" alt="Diana Yuan">
+                </div>
+                <h4>Land Your Dream Job: Navigating and Nailing the Interview Process <span>Diana Yuan</span></h4>
+                <p>Put your best application forward and learn about common pitfalls and tips when it comes to nailing the Interview Process regardless of role or industry. We'll be focusing on ways you can set yourself apart from the rest and land your dream job!</p>
+              </div>
+            </div>
+                        <div class="row schedule-item">
+              <div class="col-md-2"></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/ElizabethYang.jpg" alt="ElizabethYang">
+                </div>
+                <h4>Becoming A Powerful Networker <span>Elizabeth Yang</span></h4>
+                <p>Your leadership attraction is a networking must. Join us to learn the 7 secrets to networking (and the common mistakes to avoid) so you can begin to open doors to places you couldn't have imagined. We'll cover how to authentically network. You'll gain powerful insights into building your Power-Up Circles—the 5 right types of people you must surround yourself.</p>
+              </div>
+            </div>
+                        <div class="row schedule-item">
+              <div class="col-md-2"><time>03:45 PM -03:55 PM</time></div>
+              <div class="col-md-10">
+                <h4>Break</h4>                
+              </div>
+            </div>
+
+                        <div class="row schedule-item">
+              <div class="col-md-2"><time>03:55 PM -04:45 PM</time></div>
+              <div class="col-md-10">
+                <div class="speaker">
+                  <img src="img/speakers/LizaTalusan.jpg" alt="Liza Talusan">
+                </div>
+                <h4>How Far We’ve Climbed (Panel) <span>Liza Talusan, Elizabeth Yang, Trish Fontanilla</span></h4>
+                <p>Meet trailblazers that unexpectedly changed their trajectories and have made it their success story </p>
+              </div>
+            </div>
+
+            <div class="row schedule-item">
+              <div class="col-md-2"><time>04:45 PM -05:00 PM</time></div>
+              <div class="col-md-10">
+                <h4>Closing Remarks & Raffle</h4>
+                </div>           
+            </div>
+          <!-- End Afternoon-->
+
+        </div>
+
+      </div>
+
+    </section>
+
+    
+    <!--==========================
+      Gallery Section
+    ============================-->
+    <section id="gallery" class="wow fadeInUp">
+
+      <div class="container">
+        <div class="section-header">
+          <h2>Gallery</h2>
+          <p>Photos from our past AAWIL conferences</p>
+        </div>
+      </div>
+
+      <div class="owl-carousel gallery-carousel">
+        <a href="img/gallery/1.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/1.jpg" alt=""></a>
+        <a href="img/gallery/2.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/2.jpg" alt=""></a>
+        <a href="img/gallery/3.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/3.jpg" alt=""></a>
+        <a href="img/gallery/4.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/4.jpg" alt=""></a>
+        <a href="img/gallery/5.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/5.jpg" alt=""></a>
+        <a href="img/gallery/6.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/6.jpg" alt=""></a>
+        <a href="img/gallery/7.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/7.jpg" alt=""></a>
+        <a href="img/gallery/8.jpg" class="venobox" data-gall="gallery-carousel"><img src="img/gallery/8.jpg" alt=""></a>
+      </div>
+
+    </section>
+
+    <!--==========================
+      Sponsors Section
+    ============================-->
+    <section id="supporters" class="wow fadeInUp">
+
+      <div class="container">
+        <div class="section-header">
+          <h2>Sponsors</h2>
+        </div>
+
+        <div class="row no-gutters supporters-wrap clearfix">
+
+          <div class="col-md-12">
+            <div class="supporter-logo">
+                <a href="https://www.tuftsmedicalcenter.org/" class="supporter-logo">
+              <img src="img/supporters/Sponsor_TuftsMedicalCenter.png" class="img-fluid" alt="Sponsor_TuftsMedicalCenter"></a>
+            </div>
+          </div>
+          
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://www.harvardpilgrim.org/" class="supporter-logo">
+              <img src="img/supporters/Sponsor_HarvardPilgrimHC.jpg" class="img-fluid" alt="Harvard Prilgrim Health Care"></a>
+            </div>
+          </div>
+        
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://www.simmons.edu" class="supporter-logo">
+              <img src="img/supporters/Sponsor_SimmonsUniversity_Tree_Logo.jpg" class="img-fluid" alt="Simmons University"></a>
+            </div>
+          </div>
+          
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+                <a href="http://web.simmons.edu/~asa/" class="supporter-logo">
+              <img src="img/supporters/Sponsor_ASA.png" class="img-fluid" alt="ASA"></a>
+            </div>
+          </div>
+        </div>
+      </div>
+     
+        <div class="container">
+        <div class="section-header">
+          <br>
+          <br>
+          <h2>Corporate Tickets</h2>
+        </div>
+        <div class="row no-gutters supporters-wrap clearfix">
+                                                                                               
+          <div class="col-lg-3 col-md-2 col-xs-6">
+            <div class="supporter-logo">
+                <a href="https://www.novartis.com" class="supporter-logo">
+              <img src="img/supporters/corporatetickets_novartis.jpg" class="img-fluid" alt="Novartis Institutes for BioMedical Research"></a>
+            </div>
+          </div>
+          </div>
+      </div>
+          <div class="container">
+        <div class="section-header">
+          <h2>Raffle Prizes</h2>
+          <p>In addition to financial sponsorship, ASPIRE welcomes support in the form of product donations for the conference gift bags and raffle.</p>
+        </div>
+        <div class="row no-gutters supporters-wrap clearfix">      
+         
+         <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://www.cszboston.com/csz-education-improv-classes" class="supporter-logo">
+              <img src="img/supporters/raffle_CSz_Boston.png" class="img-fluid" alt="Level 1 Improv Class ($250 value) and a pair of tickets ($30 value)"></a>
+           </div>
+           
+              <h4 style="text-align:center;margin-top:15px;">ComedySportz</h4>
+           <p style="text-align:center;padding: 15px;">Level 1 Improv Class ($250 value) and a pair of tickets ($30 value)</p>
+            
+          </div>   
+          
+           <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://www.automicgold.com/collections/earrings/products/heart-earring" class="supporter-logo">
+              <img src="img/supporters/Raffle_Automic_Gold.png" class="img-fluid" alt="Automic Gold"></a>
+            </div>
+             
+            <h4 style="text-align:center;margin-top:15px;">Automic Gold</h4>
+                <p style="text-align:center;padding: 15px;">Heart Earrings ($119 value) are solid 14k yellow gold. You can wear them 24/7 - no tarnishing!</p>
+             </div> 
+          
+            <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://girlsgonehappy.org/shop/group-kit-digital-package" class="supporter-logo">
+              <img src="img/supporters/Raffle_GGHvector.png" class="img-fluid" alt="Girls Gone Happy"></a>
+           </div>
+              <h4 style="text-align:center;margin-top:15px;">Girls Gone Happy</h4>
+           <p style="text-align:center;padding: 15px;">Digital Group Kit ($75 value) </p>
+            
+          </div>   
+          
+           <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <a href="https://www.curiospice.com/spices/mediterranean-box" class="supporter-logo">
+              <img src="img/supporters/Raffle_CurioSpiceCo.png" class="img-fluid" alt="Curio Spice Co."></a>
+           </div>
+              <h4 style="text-align:center;margin-top:15px;">Curio Spice Co.</h4>
+           <p style="text-align:center;padding: 15px;">Mediterranean Pantry Set in a Curio Tote ($37.50 value)</p>
+            
+          </div>   
+             
+          </div>     
+     </div>
+     
+    </section>
+
+    
+
+    <!--==========================
+      Subscribe Section
+    ============================-->
+    <section id="subscribe">
+      <div class="container wow fadeInUp">
+        <div class="section-header">
+          <h2>Join Our Newsletter</h2>
+          <p>See our <a href="https://www.girlsaspire.org/events#UPCOMINGEVENTS">upcoming events</a>, programs, and more.</p>
+        </div>
+        
+        
+         <!--<form method="POST" action="#">
+          <div class="form-row justify-content-center">
+            <div class="col-auto">
+              <input type="text" class="form-control" placeholder="Enter your Email">
+            </div>
+            <div class="col-auto">
+              <button type="submit">Subscribe</button>
+            </div>
+          </div>
+        </form>
+
+      </div> -->
+      
+    </section>
+
+    
+  </main>
+
+
+  <!--==========================
+    Footer
+  ============================-->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6 footer-info">
+            <img src="img/AAWIL_Logo.png" alt="AAWIL2019">
+            <p>The Asian American Women in Leadership Conference is the only conference in the nation dedicated to Asian American female students and professionals. ASPIRE engages 200 Asian American women at AAWIL with workshops and discussions that explore various aspects of leadership.</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>More About ASPIRE</h4>
+            <ul>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/">Home</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/about-us">About us</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/womens-leadership-programs">Our Programs</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/get-involved">Get Involved</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.girlsaspire.org/donate">Donate</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <h4>Contact Us</h4>
+            <p>
+                ASPIRE<br>
+                P.O. BOX 51037<br>
+                BOSTON, MA 02205<br>
+              <strong>Conference@girlsaspire.org<br>
+            </p>
+
+            <div class="social-links">
+              <a href="https://twitter.com/girlsaspire" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="https://www.facebook.com/girlsaspire" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.instagram.com/girlsaspire/" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="https://www.linkedin.com/company/aspire-asian-sisters-participating-in-reaching-excellence" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong>GirlsAspire.org</strong>. All Rights Reserved
+      </div>
+    </div>
+    </div>
+  </footer><!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/venobox/venobox.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+
+  <script src="js/main.js"></script>
+          
+          <!-- Begin Constant Contact Active Forms -->
+<script> var _ctct_m = "a68001f1568e91cec15acfd9397922e9"; </script>
+<script id="signupScript" src="//static.ctctcdn.com/js/signup-form-widget/current/signup-form-widget.min.js" async defer></script>
+<!-- End Constant Contact Active Forms -->
+</body>
+
+</html>
